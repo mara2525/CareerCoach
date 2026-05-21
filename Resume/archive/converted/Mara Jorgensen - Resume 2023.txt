@@ -1,0 +1,150 @@
++------------------------------------------------------------+---+------------------------------------------------------+
+| +--------------------------------------------------------+ |   | +---------------------+                              |
+| | Mara Jorgensen                                         | |   | | Product/project     |                              |
+| | Business Solutions Executive                           | |   | | experience by       |                              |
+| | mara.jorgensen@gmail.com| 712.898.2341                 | |   | | business function   |                              |
+| |                                                        | |   | +:===================:+                              |
+| | Mara is a high-performing and accomplished executive   | |   | | Technical           |                              |
+| | leader with over two decades of experience in          | |   | | Architecture        |                              |
+| | agricultural, chemical manufacturing, trading, and     | |   | |                     |                              |
+| | logistics. Her roles have focused around supporting    | |   | | Systems             |                              |
+| | business as a product leader and business line manager | |   | | Integrations        |                              |
+| | with a strong technical background. She currently      | |   | | (iPaaS)             |                              |
+| | leads talented teams to provide the best product for   | |   | |                     |                              |
+| | ag, trading, and logistics. Utilizing her experience,  | |   | | Strategic data      |                              |
+| | Mara is always analyzing opportunities and working to  | |   | | planning/analysis   |                              |
+| | leads strategy and product through integrations,       | |   | |                     |                              |
+| | automation, and long-term technical solutions.         | |   | | Corporate           |                              |
+| | Previous and current business segments served include  | |   | | governance          |                              |
+| | risk, compliance, sales, logistics, customer           | |   | |                     |                              |
+| | engagement, project management, accounting,            | |   | | Business process    |                              |
+| | procurement, profitability, reporting, and HR.         | |   | | efficiency          |                              |
+| |                                                        | |   | +---------------------+                              |
+| | Experience                                             | |   | | Supply              |                              |
+| |                                                        | |   | | Chain/Logistics     |                              |
+| | +------------------+---------------------------------+ | |   | |                     |                              |
+| | | 5/2023 – Current | Head of Freight (Product)       | | |   | | Truck load order    |                              |
+| | +==================+=================================+ | |   | | platform            |                              |
+| | | Kontango         | Strategy and and growth leader  | | |   | |                     |                              |
+| | |                  | for a international chemical    | | |   | | Truck scheduling    |                              |
+| | | New York City,   | commodities trading platform,   | | |   | |                     |                              |
+| | | NY               | revolutionalizing market        | | |   | | Company-owned       |                              |
+| | |                  | intelligence capture and trade  | | |   | | product recovery    |                              |
+| | |                  | planning. Responsible for       | | |   | | application (for    |                              |
+| | |                  | roadmap, product ideation, and  | | |   | | trucks/drivers)     |                              |
+| | |                  | market intelligence software    | | |   | |                     |                              |
+| | |                  | category creation. Leads        | | |   | | Barge movement      |                              |
+| | |                  | several teams to deliver data   | | |   | | reconciliation      |                              |
+| | |                  | analytics, market analytics,    | | |   | |                     |                              |
+| | |                  | product, and customer success   | | |   | | Rail scheduler      |                              |
+| | |                  | to drive profitability.         | | |   | |                     |                              |
+| | +------------------+---------------------------------+ | |   | | Load accounting     |                              |
+| | | 4/2020 – 3/2023  | General Product and Business    | | |   | +---------------------+                              |
+| | |                  | Line Manager                    | | |   | | Sales and Marketing |                              |
+| | +------------------+---------------------------------+ | |   | |                     |                              |
+| | | Roger, LLC.      | Leads teams to grow the Roger   | | |   | | Purchase Agreement  |                              |
+| | |                  | brand by developing             | | |   | | platforms           |                              |
+| | | Omaha, NE        | groundbreaking products for a   | | |   | |                     |                              |
+| | |                  | digital freight ecosystem.      | | |   | | Sales               |                              |
+| | |                  | Collaborates directly with      | | |   | | order/Purchase      |                              |
+| | |                  | executives and leaders of       | | |   | | order alignment     |                              |
+| | |                  | investment advisor groups to    | | |   | |                     |                              |
+| | |                  | ensure the most robust market   | | |   | | Commercial          |                              |
+| | |                  | offering. Implemented an        | | |   | | Reporting Dashboard |                              |
+| | |                  | industry-leading (bulk freight  | | |   | |                     |                              |
+| | |                  | commodity movements) logistics  | | |   | | Customer-facing     |                              |
+| | |                  | insurance compliance program.   | | |   | | sales portal        |                              |
+| | |                  | Demonstrates situational        | | |   | |                     |                              |
+| | |                  | agility and uses a high degree  | | |   | | Sales quotes        |                              |
+| | |                  | of autonomy to pursue the right | | |   | +---------------------+                              |
+| | |                  | strategic direction and drive   | | |   | | Accounting          |                              |
+| | |                  | profitability for Roger and its | | |   | |                     |                              |
+| | |                  | investors.                      | | |   | | AR/AP dashboards    |                              |
+| | +------------------+---------------------------------+ | |   | |                     |                              |
+| | | 6/2013 – 12/2020 | Director/Senior Partner         | | |   | | Financial reporting |                              |
+| | +------------------+---------------------------------+ | |   | | applications        |                              |
+| | | Fast Solutions,  | Owned and ran a successful      | | |   | |                     |                              |
+| | | Inc.             | client services company         | | |   | | SAP                 |                              |
+| | |                  | specializing in technical       | | |   | |                     |                              |
+| | | Omaha, NE        | products/projects. Focused on   | | |   | | JDE                 |                              |
+| | |                  | the agricultural and commodity  | | |   | |                     |                              |
+| | |                  | markets, securing clients in    | | |   | | ERP integrations    |                              |
+| | |                  | the trading and manufacturing   | | |   | |                     |                              |
+| | |                  | areas throughout the United     | | |   | | Grain accounting    |                              |
+| | |                  | States and internationally.     | | |   | | systems (Agris,     |                              |
+| | |                  | Collaborated closely with       | | |   | | AgTrax, Cultura,    |                              |
+| | |                  | business partners and managed   | | |   | | Ion)                |                              |
+| | |                  | projects to create custom web   | | |   | +---------------------+                              |
+| | |                  | applications, interfaces, data  | | |   | | Risk                |                              |
+| | |                  | repositories, and business      | | |   | |                     |                              |
+| | |                  | reporting platforms.            | | |   | | ETRM/CTRM platforms |                              |
+| | +------------------+---------------------------------+ | |   | |                     |                              |
+| | | 7/2010 – 6/2013  | Software Engineer/Business      | | |   | | Allegro interfaces  |                              |
+| | |                  | Analyst                         | | |   | |                     |                              |
+| | +------------------+---------------------------------+ | |   | | Custom position     |                              |
+| | | Tyson Foods,     | Focused on supporting the       | | |   | | platforms/reporting |                              |
+| | | Inc.             | protein business as an          | | |   | +---------------------+                              |
+| | |                  | experienced business analyst.   | | |   | | Product/Materials   |                              |
+| | | Dakota City, NE  | Led the development of custom   | | |   | |                     |                              |
+| | |                  | internal dashboards and ERP     | | |   | | Asset management    |                              |
+| | |                  | applications. Utilized          | | |   | |                     |                              |
+| | |                  | knowledge of modern systems as  | | |   | | Material            |                              |
+| | |                  | well as mainframe applications  | | |   | | contracts/receipts  |                              |
+| | |                  | to develop the best solutions   | | |   | |                     |                              |
+| | |                  | to drive efficiency within the  | | |   | | Scheduling          |                              |
+| | |                  | business.                       | | |   | |                     |                              |
+| | +------------------+---------------------------------+ | |   | | Manufacturing       |                              |
+| | | 5/2001-7/2010    | (Various Titles including       | | |   | |                     |                              |
+| | |                  | Software Developer, Systems     | | |   | | Plant production    |                              |
+| | |                  | Security, Corporate             | | |   | |                     |                              |
+| | |                  | Comminications)                 | | |   | | Data historian      |                              |
+| | +------------------+---------------------------------+ | |   | |                     |                              |
+| | | CF               | Key member of the team that     | | |   | | Parts/Warehouse     |                              |
+| | | Industries/Terra | developed and implemented       | | |   | | management          |                              |
+| | | Industries, Inc. | customer facing software and    | | |   | +---------------------+                              |
+| | |                  | integratons for both internal   | | |   | | Additional items    |                              |
+| | | Sioux City, IA   | (sales, accounting, trading)    | | |   | |                     |                              |
+| | |                  | and external fertilizer         | | |   | | IT helpdesk         |                              |
+| | |                  | customers. Extensive ERP        | | |   | |                     |                              |
+| | |                  | experience, responsible for     | | |   | | Time entry systems  |                              |
+| | |                  | internal SOX compliance. Served | | |   | |                     |                              |
+| | |                  | in the corporate communications | | |   | | HR system           |                              |
+| | |                  | department maintaining external | | |   | | integrations        |                              |
+| | |                  | and internal stakeholder        | | |   | +---------------------+                              |
+| | |                  | relations.                      | | |   | |                     |                              |
+| | +------------------+---------------------------------+ | |   | +---------------------+                              |
+| |                                                        | |   |                                                      |
+| | Education and certification                            | |   | Mara Jorgensen                                       |
+| |                                                        | |   | 2212 Buchanan Avenue                                 |
+| | Masters, Management (GPA: 3.8)                         | |   | Sergeant Bluff, Iowa 51054                           |
+| | Bellevue University                                    | |   | 712.898.2341                                         |
+| |                                                        | |   | mara.jorgensen@gmail.com                             |
+| | BS, Computer Science and Mathematics (GPA: 3.4)        | |   | http://www.linkedin.com/pub/mara-jorgensen/3/a7a/560 |
+| | Morningside University                                 | |   |                                                      |
+| |                                                        | |   |                                                      |
+| | References available upon request.                     | |   |                                                      |
+| +:======================================================:+ |   |                                                      |
+| |                                                        | |   |                                                      |
+| +--------------------------------------------------------+ |   |                                                      |
+| | Education and certification                            | |   |                                                      |
+| |                                                        | |   |                                                      |
+| | Certified Information Systems Security Professional    | |   |                                                      |
+| | (CISSP) since 2006                                     | |   |                                                      |
+| |                                                        | |   |                                                      |
+| | MA, Management (GPA: 3.8)                              | |   |                                                      |
+| | Bellevue University                                    | |   |                                                      |
+| | Bellevue, Nebraska                                     | |   |                                                      |
+| |                                                        | |   |                                                      |
+| | BS, Computer Science and Mathematics (GPA: 3.4)        | |   |                                                      |
+| | Morningside College                                    | |   |                                                      |
+| | Sioux City, Iowa                                       | |   |                                                      |
+| |                                                        | |   |                                                      |
+| | References available upon request.                     | |   |                                                      |
+| +--------------------------------------------------------+ |   |                                                      |
+| | [Logo placeholder]                                     | |   |                                                      |
+| +--------------------------------------------------------+ |   |                                                      |
+|                                                            |   |                                                      |
+| : Layout for flyer body content                            |   |                                                      |
++============================================================+===+======================================================+
+
+: Table for overall flyer layout

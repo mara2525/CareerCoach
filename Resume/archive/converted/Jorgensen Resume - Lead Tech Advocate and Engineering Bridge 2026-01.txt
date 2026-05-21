@@ -1,0 +1,173 @@
+MARA JORGENSEN
+
+Senior Technical Leader & Engineering Bridge | AgTech, Logistics &
+Commodities Trading
++1-712-898-2341 | mara@strategic-corp.com | LinkedIn
+
+Summary
+
+Senior Technical Leader driven to advocate for engineering teams while
+driving high-impact business value. With 20+ years of experience as a
+former software engineer turned leader in the ag supply chain, I
+specialize in “bridging the gap” between technical engineering and
+business strategy. I am an expert at reviewing developer workflows,
+coaching teams on modern AI/tech strategy, and influencing business
+improvements that accelerate the organization’s goals. With deep ag
+experience and very code-literate, including Python, I ensure technical
+teams can build scalable solutions that solve real business problems.
+
+Skills
+
+Engineering & Product Leadership
+
+- 
+
+- Executive advisory on technical initiatives
+
+- Enterprise product strategy
+
+- Influencing internal ML tools & lifecycle
+
+- Deep engineering/data pain point understanding
+
+- Reviewing code/logic
+
+- AI & Product roadmapping
+
+AI Implementation
+
+- Python-based ML workflows
+
+- Agentic workflows
+
+- LLM orchestration
+
+- RAG strategy
+
+- Predictive analytics
+
+- 
+
+Industry & Tool Expertise
+
+- 
+
+- Industry Expertise: Agriculture & AgTech, Commodities Trading, Global
+  Logistics & Freight, Insurance & Compliance
+
+- Developer, Data, AI/ML Tools: Python, SQL, APIs/API Design, iPaaS,
+  ETL, Knowledge Retrieval (RAG), Vector Database Strategy, Data
+  Stubbing & Feasibility Testing
+
+- AI & Automation: Azure AI Foundry, n8n, OpenAI/ChatGPT, Claude,
+  Gemini, Perplexity, Cursor, v0, Bolt, agents, workflows
+
+- Digital Transformation: Legacy System Modernization (ERP, SAP,
+  Oracle), Predictive Analytics, Data Warehousing, BI
+
+Professional Experience
+
+CEO, AI & Technical Implementation Strategist at Strategic Consulting
+Corp. | 1/2020 to present
+
+- Executive Advisory: Acting as a technical bridge with executives to
+  implement data products that provide immediate value (ROI, increased
+  profitability, cost savings, or efficiency gains)
+
+- Developer/Engineering Workflow Coaching: Review, coach, and lead
+  engineering teams in adopting coding tools and agentic workflows.
+  Reducing engineering time by removing pipeline bottlenecks.
+
+- Technical Advocate: Represent data and engineering needs in executive
+  and strategic stakeholder engagements, translating complex
+  requirements into business-justified initiatives
+
+- Digital Transformation Leadership: Spearheads the development of
+  multi-year product roadmaps integrating modern technologies, including
+  AI/ML for predictive analytics, into existing enterprise ecosystems to
+  enhance customer value and profitability
+
+- “Build vs. Buy” Analysis: Leads executive stakeholders through complex
+  “build vs. buy” decisions, providing rigorous economic analysis and
+  strategic recommendations
+
+Head of Freight [Product] and Customer Operations at Kontango |
+International chemicals commodity market intelligence & trading platform
+| 4/2023 to 12/2024
+
+- Engineering Leadership: Led engineers to integrate machine learning
+  for freight optimization that blended SaaS with domain-specific data
+
+- Strategic Product & Customer Operations Leadership: Served as the
+  primary customer-facing advisor to executive stakeholders,
+  collaborating closely with the CEO to make strategic product decisions
+  for the platform. Owned end-to-end customer operations
+
+- Workflow Optimization: Leveraged modern tech to coach internal teams
+  and optimize customer workflows through automation and streamlining
+  complex data analysis
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger (JV of Cargill, The Andersons, Scoular, CGB, & Koch) |
+Agricultural bulk freight trucking movement, compliance, & marketplace |
+3/2020 – 3/2023
+
+- Platform Launch & Growth: Owned P&L, led the design and launch of
+  onRamp, a secure onboarding platform for logistics partners,
+  increasing revenue by ~20% within the first 12 months
+
+- Engineering & Product Leadership: Partnered with engineering, design,
+  and legal to plan for data segregation and retention policies,
+  ensuring sensitive carrier and insurance data remained isolated from
+  identifiable user information
+
+- Technical Integration Leader: Led the integrations engineering for
+  multiple internal & external data sources and pipelines. Responsible
+  for the direction of tooling and environment selection
+
+Partner, Director of Business Solutions at Fast Solutions | Technical
+firm specializing in enterprise systems for medium-large agricultural
+and construction clients | 6/2013 – 1/2020
+
+- Deep Domain Expert (Ag, Commodities, Logistics): Served as the primary
+  expert for business stakeholders, translating their needs into
+  technical requirements for enterprise modernization initiatives
+
+- Modernization Lead: Drove enterprise digital transformation by
+  creating, and executing, multi-year product roadmaps for integration
+  and platform modernization projects
+
+- Technical Leader, Implementations and Integrations: Led product and
+  engineering teams in complex ERP integrations and implementations
+  (including SAP) for ag and commodities clients. Managed the entire
+  product lifecycle and engineering teams, from initial requirements
+  gathering and scope definition to coordinating UAT, and final product
+  release
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Acted as the key liaison between business stakeholders across sales,
+  manufacturing, and accounting
+
+- Developed systems that enhanced data flow between critical business
+  systems, directly improving a complex ag systems
+
+- Designed integrations and reporting platforms for highly regulated
+  USDA reporting
+
+Software Developer/Security Analyst at CF Industries | 4/2001 – 6/2010
+
+- Engineered robust software for the leading agricultural chemical
+  manufacturer, focusing on business-critical applications in SAP and
+  ensuring data integrity
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  (SOX) compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+Education
+
+Masters in Management | Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics | Morningside University, Sioux
+City, Iowa

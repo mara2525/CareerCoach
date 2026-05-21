@@ -1,0 +1,201 @@
+Summary
+
+With over 20 years of technical product leadership, I bring deep
+expertise in software development, implementations, system integrations,
+and customer operations. I am able to become a domain expert, leading
+engineering and product teams to quickly validate problems and build
+optimized tools. I also have an extensive history in trading that, while
+not an exact match, does have adjacencies to energy capacity management.
+
+I thrive on leading the next generation of engineering and product
+leaders. As I mentor, I ensure our product strategy aligns with business
+goals. I lead teams through iterative, data-driven development, with an
+emphasis strong cross-functional collaboration. My leadership style
+prioritizes solving the customer’s most urgent challenges as the most
+reliable path to revenue.
+
+My skillset includes all tools required by Nira. As a PM for 10+ years,
+I work with teams to utilize tools such as Jira, Figma, and Python on a
+daily basis. As a leader on smaller teams, I have written SQL for 20+
+years and am able to develop my own data dashboards and conclusions
+without a BI Engineer for general tasks.
+
+As a product line owner and General Manager I have had to operate with
+high agency and navigate through ambiguity. I’ve successfully taken
+products from concept to market—leading go-to-market efforts, design and
+integration partnerships, pricing strategy, and monetization. I work
+closely with engineering, sales, marketing, trading, and customer
+success to deliver high-impact software that drives business outcomes.
+
+Technical Leadership & Expertise
+
+- ETRM/CTRMs (Enterprise/Commodities Trading Risk Management),
+  integration platforms (iPaaS, Middleware, Custom Solutions), ERPs,
+  TMSs (Transportation Management Systems), accounting systems, CRMs,
+  quote-to-cash systems, manufacturing & inventory management, Reporting
+  & analytics tools, developer tools, market intelligence tools, trading
+  platforms, marketplace, compliance platforms
+
+Industry Leadership & Expertise
+
+- AgTech, Bulk Logistics (Truck, Rail, Barge, and Vessel), B2B
+  Marketplace, Risk Management, Commodity Manufacturing & Trading,
+  Chemicals Manufacturing & Distribution, B2B SaaS, Customer
+  Operations/Success, Agriculture
+
+Experience
+
+CEO/Founder, Product & Digital Product Transformation Leader at
+Strategic Consulting Corp. | 1/2020 to present
+
+- Set the vision and strategy for customer software projects/products
+
+- Prioritize features and initiatives with an emphasis on customer-value
+  add
+
+- Partners with enterprise teams to solve complex problems, enhance
+  customer satisfaction, and improve profitability through
+  collaboration, strategic alignment, and technology
+
+- Collaborate with, and advise, executive leadership with a combination
+  of expertise and data-driven insights
+
+- Superior business acumen and a long history in agriculture,
+  commodities trading, and logistics
+
+- Leverage AI and machine learning (ML) to deliver scalable, modern
+  solutions to drive efficiency
+
+- Lead engineering to develop scalable, secure, and pointed solutions
+  that align with customer needs
+
+- Leveraged over a decade of deep engineering leadership and two
+  decades’ experience in integrations to align product strategy
+
+- Incorporate AI to enhance product development and operational
+  efficiency
+
+- Focus on building strong relationships, driving cross-collaboration,
+  and driving measurable value for clients’ stakeholders
+
+Head of Freight [Product] and Customer Operations at Kontango | 4/2023
+to 12/2024
+
+- Set and executed the strategic vision for an international chemicals
+  commodity trading platform as an executive leader in product and
+  customer operations; Utilized deep industry knowledge of 20+ years for
+  this vision
+
+- Drove substantial customer value through collaboration,
+  relationship-building, and empowering onshore and offshore engineering
+  teams to plan and execute with agility
+
+- Collaborated directly with the CEO and customers/partners to support
+  business development for our commodity trade planning and market
+  intelligence platform
+
+- Owned and mapped the customer journey to identify key pain points and
+  KPIs for success
+
+- Embraced cutting-edge technologies, including AI for data analytics
+  and machine learning, to develop predictive freight models
+
+- Headed customer operations and Hubspot CRM-based reporting, data
+  visualization, and analytics tools
+
+- Led the data analytics team to create the foundation for supply chain
+  digital twin
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | 3/2020 – 3/2023
+
+- General Manager with full business unit P&L responsibilities
+
+- Delivered an industry-leading insurance compliance platform, driving
+  profitability and meeting critical customer needs in logistics
+  software
+
+- Led the integrations team and the onRamp [Compliance] product line,
+  delivering impactful B2B solutions for agricultural commodity
+  logistics
+
+- Delivered integrations to fuel business and customer goals; increase
+  platform retention and loyalty
+
+- Successfully executed the full go-to-market (GTM) strategy, launching
+  the onRamp product from concept to market readiness (0-1) within 12
+  months, driving substantial annual recurring revenue (ARR) growth for
+  the company
+
+- Managed internal and offshore teams to ensure rapid, customer-focused
+  development aligned with overall business objectives
+
+- Crafted a product roadmap that transformed the Roger brand with
+  innovative solutions in truck logistics
+
+- Collaborated effectively with executives and leaders from investment
+  and advisor groups, including five of the largest agricultural
+  companies in North America
+
+Partner, Director of Business Solutions at Fast Solutions | 6/2013 –
+1/2020
+
+- Spearheaded business development and new customer acquisition for
+  clients in agriculture, commodities, logistics, and construction
+
+- Led a successful client software services company, managing
+  product/project engineering teams tailored to business clients in
+  agriculture, manufacturing, commodities, and logistics
+
+- Implemented over a dozen software products and projects including ERP
+  integrations, a large ETRM implementation, several quote-to-cash
+  lifecycle systems, inventory management, logistics platforms in
+  transportation management, logistics loading systems, risk
+  management/position servers
+
+- Drove global digital transformations and custom software solutions
+  with cross-functional collaboration across diverse business units to
+  ensure the successful execution of complex projects
+
+- Leveraged technical expertise to guide and develop robust applications
+  and integrations for business-critical solutions
+
+- Empowered teams to deliver high-impact, innovative solutions aligned
+  with complex customer needs
+
+- Served as a senior software engineering leader
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- A high-performing engineer recognized for building strong stakeholder
+  relationships and understanding critical challenges
+
+- Delivered robust solutions by leveraging technical expertise in modern
+  systems and integrating them into legacy applications
+
+- Enabled business efficiency and enhanced productivity in key areas,
+  including protein sales, manufacturing, scheduling, and accounting,
+  through innovative approaches
+
+Software Developer, Security, other titles at CF Industries (formerly
+Terra Industries) | 4/2001 – 6/2010
+
+- Delivered internal customer value as a strong .NET Developer,
+  consistently achieving goals with minimal oversight
+
+- Advocated for stakeholder needs, driving the successful launch of
+  high-quality integrations and software solutions
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+Education
+
+Master of Arts in Management | 3/2006
+
+Bellevue University, Bellevue, Nebraska
+
+Bachelor of Science in Computer Science and Mathematics | 8/2002
+
+Morningside University, Sioux City, Iowa

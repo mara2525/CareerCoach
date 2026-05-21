@@ -1,0 +1,184 @@
+MARA JORGENSEN
+
+AI Strategy & Digital Transformation Leader | AgTech, Logistics &
+Commodities Trading
++1-712-898-2341 | mara@strategic-corp.com | LinkedIn
+
+Summary
+
+Technical Product Leader and AI Strategist specializing in modernizing
+technical platforms for agriculture, commodities trading, and logistics
+executives. This includes de-risking AI investments by bridging the gap
+between “AI hype” and industry reality. I lead teams to rapidly move
+from concepts to usable solutions that drive business impact. Expert at
+identifying high-ROI use cases across the agriculture and commodities
+supply chain, I combine deep industry knowledge with an agentic tech
+stack to outpace traditional engineering teams. Extensive experience
+aligning technical innovation with regulatory, security, and compliance
+considerations in global environments.
+
+Skills
+
+AI Product Strategy & Leadership
+
+- 
+
+- AI Roadmapping (90-day and beyond)
+
+- Executive Advisory on Technical Initiatives
+
+- “Build vs. Buy” Economic Analysis
+
+- AI Product Lifecycle Ownership
+
+- Responsible AI Posture
+
+- AI Best Practices Mentor
+
+- Enterprise Product Strategy
+
+AI Implementation
+
+- Agentic Workflows
+
+- LLM Orchestration (Azure AI Fountry, OpenAI)
+
+- Rapid Pilot-to-Production Cycles
+
+- Predictive Analytics
+
+- AI-Driven Market Targeting
+
+- 
+
+Industry & Tool Expertise
+
+- 
+
+- Industry Expertise: Agriculture & AgTech, Commodities Trading, Global
+  Logistics & Freight, Insurance & Compliance
+
+- AI & Automation: Azure AI Foundry, n8n, OpenAI/ChatGPT, Claude,
+  Gemini, Perplexity, Cursor, v0, Bolt, agents, workflows
+
+- Data, AI Infrastructure, & ML Tools: Python, SQL, APIs, iPaaS, ETL,
+  Knowledge Retrieval (RAG), Vector Database Strategy, Data Stubbing &
+  Feasibility Testing
+
+- Digital Transformation: Legacy System Modernization (ERP, SAP,
+  Oracle), Predictive Analytics, Data Warehousing, BI
+
+Professional Experience
+
+CEO, AI & Technical Implementation Strategist at Strategic Consulting
+Corp. | 1/2020 to present
+
+- Accelerated AI Framework: Developed and executes a 3-phase framework
+  to move enterprise leaders to a functional AI pilot, bypassing
+  bottlenecks to validate core business assumptions quickly
+
+- Next-Gen Engineering: Leverages a “next-gen” tech stack including
+  automated engineers and coding tools to deliver logic and functional
+  pilots at a fraction of the time and cost of traditional engineers.
+  Deploys predictive AI engines for high-value client use cases, such as
+  market optimization or customer service
+
+- Executive Advisory: Consults with executives to identify AI use-cases
+  that provide immediate value (ROI, increased profitability, cost
+  savings, or efficiency gains)
+
+- Digital Transformation Leadership: Spearheads the development of
+  multi-year product roadmaps integrating modern technologies, including
+  AI/ML for predictive analytics, into existing enterprise ecosystems to
+  enhance customer value and profitability
+
+- “Build vs. Buy” Analysis: Leads executive stakeholders through complex
+  “build vs. buy” decisions, providing rigorous economic analysis and
+  strategic recommendations
+
+Head of Freight [Product] and Customer Operations at Kontango |
+International chemicals commodity market intelligence & trading platform
+| 4/2023 to 12/2024
+
+- ML-Driven Market Intelligence: Owned the product roadmap for the
+  freight platform, leading the integration of a new predictive machine
+  learning for freight optimization that blended SaaS with
+  domain-specific data
+
+- Strategic Product & Customer Operations Leadership: Served as the
+  primary customer-facing advisor to executive stakeholders,
+  collaborating closely with the CEO to make strategic product decisions
+  for the platform. Owned end-to-end customer operations
+
+- Customer-Centered Innovation: Drove rigorous discovery and customer
+  journey analysis to quickly deploy MVP concepts, prioritizing
+  engagement and ROI for trader customers
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger (JV of Cargill, The Andersons, Scoular, CGB, & Koch) |
+Agricultural bulk freight trucking movement, compliance, & marketplace |
+3/2020 – 3/2023
+
+- Platform Launch & Growth: Owned P&L, led the design and launch of
+  onRamp, a secure onboarding platform for logistics partners,
+  increasing revenue by ~20% within the first 12 months
+
+- Enterprise Compliance: Ensured strict adherence to PII, CCPA, and SOC2
+  standards while integrating with the US government and insurance data
+  sources to automate partner verification
+
+- Cross-Functional Leadership: Partnered with engineering, design, and
+  legal to plan for data segregation and retention policies, ensuring
+  sensitive carrier and insurance data remained isolated from
+  identifiable user information
+
+- Customer Champion: Led continuous discovery with business stakeholders
+  and customers to identify high-value use for logistics platform
+  features
+
+Partner, Director of Business Solutions at Fast Solutions | Technical
+firm specializing in enterprise systems for medium-large agricultural
+and construction clients | 6/2013 – 1/2020
+
+- Deep Domain Expert (Ag, Commodities, Logistics): Served as the primary
+  expert for business stakeholders, translating their needs into
+  technical requirements for enterprise modernization initiatives
+
+- Modernization Strategy: Drove enterprise digital transformation by
+  creating, and executing, multi-year product roadmaps for integration
+  and platform modernization projects
+
+- Technical Leader, Implementations and Integrations: Led product and
+  engineering teams in complex ERP integrations and implementations
+  (including SAP) for ag and commodities clients. Managed the entire
+  product lifecycle and engineering teams, from initial requirements
+  gathering and scope definition to coordinating UAT, and final product
+  release
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Acted as the key liaison between business stakeholders across sales,
+  manufacturing, and accounting
+
+- Developed systems that enhanced data flow between critical business
+  systems, directly improving a complex ag systems
+
+- Designed integrations and reporting platforms for highly regulated
+  USDA reporting
+
+Software Developer/Security Analyst at CF Industries | 4/2001 – 6/2010
+
+- Engineered robust software for the leading agricultural chemical
+  manufacturer, focusing on business-critical applications in SAP and
+  ensuring data integrity
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  (SOX) compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+Education
+
+Masters in Management | Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics | Morningside University, Sioux
+City, Iowa

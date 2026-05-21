@@ -1,0 +1,194 @@
+MARA JORGENSEN
+
+Technical Integrations Product Leader | +1-712-898-2341
+
+mara.jorgensen@gmail.com | LinkedIn
+
+Summary
+
+With over two decades of experience, I am a dynamic, customer-facing
+technical leader who thrives on solving complex integrations for the end
+customer. I excel as a forward-deployed engineer, consistently owning
+customer operations, from defining onboarding programs to spearheading
+critical integration efforts. I am passionate about delivering impactful
+products, leveraging data-driven insights paired with a rapid adoption
+and feedback framework.
+
+I have deep knowledge integrating enterprise systems like Salesforce,
+SAP, and Oracle. The last few years I have also been actively developing
+and integrating ML/AI technologies to deliver superior solutions.
+
+A natural communicator, I have spent over a decade helping stakeholders
+– from software engineers to C-suite executives – understand the complex
+technical concepts by distilling them into concise insights. Bolt’s
+Implementation Manager role is an exact fit for my unique blend of
+technical depth, customer advocacy, and product integrations leadership.
+
+Skills
+
+Product Strategy & Technical Leadership
+
+- 
+
+- Integrations Leader
+
+- Enterprise Product Strategy
+
+- Technical Engineering Leader
+
+- AI Product Lifecycle Owner
+
+- Multi-Year Roadmap
+
+- Executive Advisory on “Build vs. Buy”
+
+- Responsible AI Integration Posture
+
+- AI Best Practices Mentor
+
+Customer Operations Leader
+
+- Customer Onboarding & Success
+
+- Pre-Sales Engineering & Technical Advisor
+
+- Executive Stakeholder Management
+
+- Integration Strategy
+
+- Compliant Rollout Strategies (Adhering to compliance such as PP, GDPR,
+  and SOX)
+
+- User Discovery & Customer Flows
+
+Industry & Domain Expertise
+
+- 
+
+- Systems: ERP (SAP, Oracle, JDE, Dynamics, Agris), CRMs (Salesforce,
+  HubSpot, Custom), Transportation Management Systems (TMS), CTRMs
+
+- AI Tools: Bolt, OpenAI, Claude, Copilot, Gemini, Perplexity, Cursor,
+  v0, agents, workflows
+
+- Integrations: APIs, iPaaS, ETL, SDKs, Data Warehousing
+
+- Industry: Agriculture, AgTech Sector, Commodity Trading, Risk
+  Management, Logistics
+
+Professional Experience
+
+CEO/Founder, Technical Product Transformation Leader at Strategic
+Consulting Corp. | 1/2020 to present
+
+- Advises enterprise organizations as a key technical product consultant
+  & pre-sales expert
+
+- Develops, and executes against, multi-year roadmaps integrating
+  advanced technologies, including AI/ML for predictive analytics, into
+  existing enterprise ecosystems to enhance customer value and
+  profitability
+
+- Spearheads 0-1 product development of enterprise and AI solutions,
+  including a predictive crop insurance application and a market
+  analysis tool
+
+- Leads executive stakeholders through complex “build vs. buy”
+  decisions, providing rigorous economic analysis and strategic
+  recommendations
+
+Head of Freight [Product] and Head of Customer Operations at Kontango |
+International chemicals commodity market intelligence & trading platform
+| 4/2023 to 12/2024
+
+- Owned end-to-end customer operations, including the entire onboarding
+  process from strategy to successful implementations
+
+- Owned the product roadmap for the freight platform, leading the
+  integration of a new predictive machine learning (ML) for freight
+  optimization that blended SaaS with domain-specific data
+
+- Served as the primary customer-facing advisor to executive
+  stakeholders, collaborating closely with the CEO to make strategic
+  product decisions for the platform
+
+- Leveraged AI coding assistants to rapidly engineer and deploy quick
+  internal tools and agentic automations, boosting team productivity and
+  streamlining data analysis
+
+- Drove rigorous discovery research, A/B testing, and customer journey
+  analysis to define MVP concepts, prioritizing features that maximized
+  engagement and ROI
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | Agricultural bulk freight trucking movement, compliance, &
+marketplace | 3/2020 – 3/2023
+
+- Achieved P&L success by owning the technical and compliance product
+  roadmaps, allowing the sales team to increase platform revenue by 20%
+  in less than 12 months
+
+- Served as an executive product leader and customer champion, aligning
+  our organization with the goals of executive stakeholders from major
+  North American ag companies
+
+- Spearheaded the strategic selection and implementation of a
+  company-wide iPaaS, creating the technical foundation for scalable
+  solutions
+
+- Conducted continuous discovery sessions with business stakeholders
+  across the JV partners to surface high-value use for logistics
+  platform features
+
+Partner, Director of Business Solutions at Fast Solutions | Boutique
+software product firm specializing in enterprise systems for
+medium-large agricultural and construction clients | 6/2013 – 1/2020
+
+- Drove enterprise digital transformation by creating multi-year product
+  roadmaps for integration and platform modernization projects
+
+- Specialized as an advising expert on transportation management
+  systems, including full implementations and integrations of systems
+  for truck, rail, and barge
+
+- Led product and engineering teams in complex ERP integrations and
+  implementations (including SAP) for ag and commodities clients,
+  creating the foundation for future AI/ML applications
+
+- Served as the primary consultant for business stakeholders,
+  translating their needs into technical requirements for enterprise
+  modernization initiatives
+
+- Managed the entire product life cycle, from initial requirements
+  gathering and scope definition to coordinating UAT and final product
+  release
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Acted as the key liaison between business stakeholders across sales,
+  manufacturing, and accounting
+
+- Defined requirements for modern systems with legacy ERP and mainframe
+  applications
+
+- Developed systems that enhanced data flow between critical business
+  systems, directly improving decision making in a complex agricultural
+  enterprise
+
+Software Developer/Security Analyst at CF Industries | 4/2001 – 6/2010
+
+- Engineered robust software for the leading agricultural chemical
+  manufacturer, focusing on business-critical applications in SAP and
+  ensuring data integrity
+
+- Gained foundational experience in analyzing complex system
+  dependencies and collaborating with business users to deliver
+  technology that solves core operational challenges in the agricultural
+  supply chain
+
+Education
+
+Masters in Management | Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics | Morningside University, Sioux
+City, Iowa

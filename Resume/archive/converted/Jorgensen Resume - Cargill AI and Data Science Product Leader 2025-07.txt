@@ -1,0 +1,169 @@
+MARA JORGENSEN
+
+AI & Data Science Product Leader (AgTech & Enterprise Automation) |
++1-712-898-2341 |
+
+mara@strategic-corp.com | LinkedIn
+
+Summary
+
+With over two decades of experience in agriculture technology, I am
+driven by adding results to the bottom line. I specialize in the
+end-to-end product lifecycle, including those driven or created by AI
+and ML. I can craft and execute a multi-year roadmap that blends
+off-the-shelf SaaS capabilities with custom, domain-specific AI
+assistants.
+
+I demonstrate a proven history of advising senior leadership on “build
+vs. buy” economics and responsible AI integration. I excel at partnering
+with ML experts, security, legal, and change management teams.
+
+Growing up on a farm, and owning a farm today, my background is rooted
+in serving the agriculture industry. I have direct experience leading a
+Cargill-backed JV, which aligns perfectly with Cargill’s purpose to feed
+the world.
+
+Skills
+
+AI Product Strategy & Leadership
+
+- 
+
+- AI Product Lifecycle Ownership
+
+- Multi-Year Roadmap
+
+- Executive Advisory on “Build vs. Buy”
+
+- Responsible AI Posture
+
+- AI Best Practices Mentor
+
+Product Execution & Analytics
+
+- MVP Definition
+
+- User Discovery, A/B Testing, Customer Flows
+
+- Prioritized Backlog Management
+
+- Compliant Rollout Strategies (Adhering to compliance such as PP, GDPR,
+  and SOX)
+
+- Performance Measurement
+
+Industry & Domain Expertise
+
+- 
+
+- Industry: Agriculture, AgTech Sector, Commodity Trading, Risk
+  Management, Logistics
+
+- Systems: ERP (SAP, Oracle, JDE, Dynamics, Agris), CRMs (Salesforce,
+  HubSpot, Custom), Transportation Management Systems (TMS), CTRMs (Ion,
+  Right Angle, Allegro, Custom)
+
+- AI Tools: ChatGPT, Claude, Copilot, Gemin, Perplexity, Cursor, v0,
+  Bolt, agents, workflows
+
+- Integrations: APIs, iPaaS, ETL, Data Warehousing
+
+Professional Experience
+
+CEO/Founder, AgTech Product Transformation Leader at Strategic
+Consulting Corp. | 1/2020 to present
+
+- Advises agricultural and logistics companies on product & AI strategy
+  to drive results
+
+- Develops multi-year roadmaps integrating advanced technologies,
+  including AI/ML for predictive analytics, into existing enterprise
+  ecosystems to enhance customer value and profitability
+
+- Spearheads 0-1 product development of AI solutions, including a
+  predictive crop insurance application and a market analysis tool
+
+- Leads executive stakeholders through complex “build vs. buy”
+  decisions, providing rigorous economic analysis and strategic
+  recommendations
+
+Head of Freight [Product] and Customer Operations at Kontango |
+International chemicals commodity market intelligence & trading platform
+| 4/2023 to 12/2024
+
+- Owned the product roadmap for the freight platform, leading the
+  integration of a new predictive machine learning for freight
+  optimization that blended SaaS with domain-specific data
+
+- Leveraged AI coding assistants to rapidly engineer and deploy quick
+  internal tools and agentic automations, boosting team productivity and
+  streamlining data analysis
+
+- Drove rigorous discovery research, A/B testing, and customer journey
+  analysis to define MVP concepts, prioritizing features that maximized
+  engagement and ROI
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | Agricultural bulk freight trucking movement, compliance, &
+marketplace | 3/2020 – 3/2023
+
+- Owned the integrations and compliance product roadmaps and P&L,
+  aligning product strategy with the goals of executive stakeholders
+  from Cargill and other major North American ag companies
+
+- Spearheaded the strategic selection and implementation of a
+  company-wide iPaaS ,creating the technical foundation for scalable
+  solutions
+
+- Ran continuous discovery sessions with business stakeholders across
+  the JV partners to surface high-value use for logistics platform
+  features
+
+Partner, Director of Business Solutions at Fast Solutions | Boutique
+software product firm specializing in enterprise systems for
+medium-large agricultural and construction clients | 6/2013 – 1/2020
+
+- Drove enterprise digital transformation by creating multi-year product
+  roadmaps for integration and platform modernization projects
+
+- Led product and engineering teams in complex ERP integrations and
+  implementations (including SAP) for ag and commodities clients,
+  creating the foundation for future AI/ML applications
+
+- Served as the primary consultant for business stakeholders,
+  translating their needs into technical requirements for enterprise
+  modernization initiatives
+
+- Managed the entire product life cycle, from initial requirements
+  gathering and scope definition to coordinating UAT and final product
+  release
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Acted as the key liaison between business stakeholders across sales,
+  manufacturing, and accounting
+
+- Defined requirements for modern systems with legacy ERP and mainframe
+  applications
+
+- Developed systems that enhanced data flow between critical business
+  systems, directly improving decision making in a complex agricultural
+  enterprise
+
+Software Developer/Security Analyst at CF Industries | 4/2001 – 6/2010
+
+- Engineered robust software for the leading agricultural chemical
+  manufacturer, focusing on business-critical applications in SAP and
+  ensuring data integrity
+
+- Gained foundational experience in analyzing complex system
+  dependencies and collaborating with business users to deliver
+  technology that solves core operational challenges in the agricultural
+  supply chain
+
+Education
+
+Masters in Management | Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics | Morningside University, Sioux
+City, Iowa

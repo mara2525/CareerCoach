@@ -1,0 +1,208 @@
+MARA JORGENSEN
+
+AI Strategy & Technical Implementation Leader | +1-712-898-2341 |
+
+mara@strategic-corp.com | LinkedIn
+
+Summary
+
+Technical Product Leader and AI Strategist specializing in de-risking AI
+investments for executives. I bridge the gap between AI hype and
+business reality by taking organizations from “0 to functional
+prototype” in 90 days. Expert at identifying high-ROI use cases in
+complex industries, such as logistics, commodity trading, and AgTech.
+Leverages an agentic tech stack to build at 10x the speed of traditional
+engineering teams. Proven track record of aligning technical innovation
+with strict regulator, security, and compliance standards.
+
+Skills
+
+AI Product Strategy & Leadership
+
+- 
+
+- AI Roadmapping (90-day and beyond)
+
+- Executive Advisory
+
+- “Build vs. Buy” Analysis
+
+- AI Product Lifecycle Ownership
+
+- Responsible AI Posture
+
+- AI Best Practices Mentor
+
+- Enterprise Product Strategy
+
+AI Implementation
+
+- Agentic Workflows
+
+- LLM Orchestration
+
+- Rapid Prototyping
+
+- Predictive Analytics
+
+- AI-Driven Market Targeting
+
+- 
+
+Industry & Tool Expertise
+
+- 
+
+- Product & Industry: B2B SaaS, B2B2C SaaS, Enterprise, Logistics
+  insurance & compliance, customer ops, AgTech, Logistics Tech,
+  PII/SOC2/Compliance, General Manager Style Leader, Design Sprints
+
+- Modern Tech Stack: Azure AI Foundry, n8n, OpenAI/ChatGPT, Claude,
+  Gemini, Perplexity, Cursor, v0, Bolt, agents, workflows
+
+- Data, AI Infrastructure, & ML Tools: Python, SQL, APIs, iPaaS, ETL,
+  Data Warehousing, Knowledge Retrieval (RAG), Vector Database Strategy,
+  Data Stubbing & Feasibility Testing
+
+Professional Experience
+
+CEO, AI & Technical Implementation Strategist at Strategic Consulting
+Corp. | 1/2020 to present
+
+- 90-Day AI Accelerator - Developed and executes a 3-phase framework to
+  move senior leaders to a functional AI pilot
+
+  - Phase 1 (Assessment & Alignment) - Identify high-value AI
+    opportunities and “stub out” data requirements to bypass
+    infrastructure bottlenecks
+
+  - Phase 2 (Prototyping & Validation) – Build functional applications
+    (not just mockups) using agentic workflows and LLMS to validate core
+    assumptions
+
+  - Phase 3 (Roadmap & Operationalize) – Establish 6–12-month production
+    roadmap for full scale-implementation, create adoption plans, and
+    begin prototype integration into the business workflow
+
+- Leverages a “next-gen” tech stack including automated engineers and
+  coding tools to deliver logic and functional pilots at a fraction of
+  the time and cost of traditional engineers
+
+- Consults with executives, such as VPs of Logistics or CTOs, to
+  identify AI use-cases that provide immediate value (ROI, increased
+  profitability, cost savings, or efficiency gains)
+
+- Architects and deploys predictive AI engines for high-value client use
+  cases, such as market optimization or customer service
+
+- Spearheads the development of multi-year product roadmaps integrating
+  advanced technologies, including AI/ML for predictive analytics, into
+  existing enterprise ecosystems to enhance customer value and
+  profitability
+
+- Leads executive stakeholders through complex “build vs. buy”
+  decisions, providing rigorous economic analysis and strategic
+  recommendations
+
+Head of Freight [Product] and Customer Operations at Kontango |
+International chemicals commodity market intelligence & trading platform
+| 4/2023 to 12/2024
+
+- Owned the product roadmap for the freight platform, leading the
+  integration of a new predictive machine learning for freight
+  optimization that blended SaaS with domain-specific data
+
+- Owned end-to-end customer operations, including the entire onboarding
+  process from strategy to successful implementations
+
+- Served as the primary customer-facing advisor to executive
+  stakeholders, collaborating closely with the CEO to make strategic
+  product decisions for the platform
+
+- Leveraged AI coding assistants to rapidly engineer and deploy quick
+  internal tools and agentic automations, boosting team productivity and
+  streamlining data analysis
+
+- Drove rigorous discovery research, A/B testing, and customer journey
+  analysis to define MVP concepts, prioritizing features that maximized
+  engagement and ROI
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | Agricultural bulk freight trucking movement, compliance, &
+marketplace | 3/2020 – 3/2023
+
+- Led the design and launch of onRamp, a secure onboarding platform for
+  logistics partners, ensuring compliance with PII, CCPA, and SOC2
+
+- Ran design sprints and iterative discovery cycles with customers and
+  internal teams to define onboarding workflows, run validation, and
+  prioritize compliance onboarding features
+
+- Integrated with the FMCSA (Federal Motor Carrier Safety Administrator)
+  and external insurance data sources
+
+- Owned the P&L for the onboarding and compliance product line (onRamp),
+  aligning strategy with executive stakeholders from out JV partners
+
+- Increased platform revenue by ~20% in under 12 months of onRamp’s
+  launch
+
+- Partnered with engineering, design, and legal to plan for data
+  segregation and retention policies, ensuring sensitive carrier and
+  insurance data remained isolated from identifiable user information
+
+- Championed continuous discovery with business stakeholders and
+  customers to identify high-value use for logistics platform features
+
+Partner, Director of Business Solutions at Fast Solutions | Boutique
+software product firm specializing in enterprise systems for
+medium-large agricultural and construction clients | 6/2013 – 1/2020
+
+- Drove enterprise digital transformation by creating multi-year product
+  roadmaps for integration and platform modernization projects
+
+- Led product and engineering teams in complex ERP integrations and
+  implementations (including SAP) for ag and commodities clients,
+  creating the foundation for future AI/ML applications
+
+- Served as the primary consultant for business stakeholders,
+  translating their needs into technical requirements for enterprise
+  modernization initiatives
+
+- Managed the entire product life cycle, from initial requirements
+  gathering and scope definition to coordinating UAT and final product
+  release
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Acted as the key liaison between business stakeholders across sales,
+  manufacturing, and accounting
+
+- Defined requirements for modern systems with legacy ERP and mainframe
+  applications
+
+- Developed systems that enhanced data flow between critical business
+  systems, directly improving a complex ag systems
+
+- Designed integrations and reporting platforms for highly regulated
+  USDA reporting
+
+Software Developer/Security Analyst at CF Industries | 4/2001 – 6/2010
+
+- Engineered robust software for the leading agricultural chemical
+  manufacturer, focusing on business-critical applications in SAP and
+  ensuring data integrity
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  (SOX) compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+- Gained foundational experience in analyzing complex system
+  dependencies and collaborating with business users
+
+Education
+
+Masters in Management | Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics | Morningside University, Sioux
+City, Iowa

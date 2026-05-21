@@ -1,0 +1,188 @@
+Summary
+
+With over 20 years of experience as a technical leader in agriculture,
+commodities, and logistics, I have a deep background in enterprise
+trading data, including the development and implementation of trading
+management and risk solutions. My expertise spans agricultural and
+chemical commodity trading, with a focus on systems that manage risk
+across cash, physical products, derivatives, and OTC products. I lead
+software engineering teams to validate the business problems, test,
+refine, and optimize risk management and other software solutions.
+
+I am skilled in aligning technical teams with organizational strategy. I
+lead iterative solution development, grounded in data-driven decision
+making. I prioritize building strong business relationships throughout
+the lifecycle of developing new technical solutions.
+
+Beyond technical leadership, I thrive in cross-functional trading
+environments, collaborating closely with engineering, sales, marketing,
+trading, and customer success teams to develop and scale solutions. My
+extensive experience in pricing and risk management platforms, combined
+with my ability to communicate effectively across stakeholders, ensures
+the delivery of high-impact software products.
+
+Technical Leadership & Expertise
+
+- ETRM/CTRMs (Enterprise/Commodities Trading Risk Management),
+  Integration Platforms (iPaaS, Middleware, Custom Solutions), ERPs,
+  TMSs (Transportation Management Systems), Accounting Systems, CRMs,
+  Developer Tools, Quote-to-Cash systems, Manufacturing & inventory
+  management, Reporting & analytics tools
+
+Industry Leadership & Expertise
+
+- Risk Management, Commodity Manufacturing & Trading, Chemicals
+  Manufacturing & Distribution, B2B SaaS, Customer Operations/Success,
+  Agriculture, AgTech, Bulk Logistics (Truck, Rail, Barge, and Vessel),
+  B2B Marketplace
+
+Experience
+
+CEO/Founder, Digital Product Transformation Leader at Strategic
+Consulting Corp. | 1/2020 to present
+
+- Founded a consulting firm specializing in software project/product
+  coaching, advisory, and direct product/project development, focusing
+  on solving customer challenges
+
+- Focus on leveraging a long history in agriculture, commodities
+  trading, and logistics to serve customers as a domain expert
+
+- Leveraged over a decade of deep engineering leadership and two decades
+  experience in integrations to align product strategy with customer
+  needs, incorporating AI to enhance product development and operational
+  efficiency
+
+- Delivers consistent and transformative leadership to bring out the
+  best in client product and engineering teams
+
+- Developed innovative frameworks to uncover pain points and deliver
+  tailored solutions for clients
+
+- Partners with enterprise teams to solve complex problems, enhance
+  customer satisfaction, and improve profitability through
+  collaboration, strategic alignment, and the application of modern
+  technology including AI and ML
+
+- Focus on building strong relationships, driving cross-collaboration,
+  and driving measurable value for clients’ stakeholders
+
+Head of Freight [Product] and Customer Operations at Kontango | 4/2023
+to 12/2024
+
+- Collaborated directly with the CEO and customers/partners to support
+  business development for our commodity trade planning and market
+  intelligence platform
+
+- Set and executed the strategic vision for an international chemicals
+  commodity trading platform as an executive leader in product and
+  customer operations; Utilized deep industry knowledge of 20+ years for
+  this vision
+
+- Drove substantial customer value through collaboration,
+  relationship-building, and empowering onshore and offshore engineering
+  teams to plan and execute with agility
+
+- Embraced cutting-edge technologies, including AI for data analytics
+  and machine learning, to develop predictive freight models
+
+- Successfully led the freight product line from discovery to full
+  implementation, establishing the infrastructure for subsequent
+  features
+
+- Headed customer operations
+
+- Let Hubspot CRM-based reporting, data visualization, and analytics
+  tools
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | 3/2020 – 3/2023
+
+- General manager with full business unit P&L responsibilities
+
+- Led the integrations team and the onRamp [Compliance] product line,
+  delivering impactful B2B solutions for agricultural commodity
+  logistics
+
+- Successfully executed the full go-to-market (GTM) strategy, launching
+  the onRamp product from concept to market readiness (0-1) within 12
+  months, driving substantial annual recurring revenue (ARR) growth for
+  the company
+
+- Managed internal and offshore teams to ensure rapid, customer-focused
+  development aligned with overall business objectives
+
+- Crafted a visionary product roadmap that transformed the Roger brand
+  with innovative solutions in truck logistics
+
+- Collaborated effectively with executives and leaders from investment
+  and advisor groups, including five of the largest agricultural
+  companies in North America
+
+- Delivered an industry-leading insurance compliance platform, driving
+  profitability and meeting critical customer needs in logistics
+  software
+
+Partner, Director of Business Solutions at Fast Solutions | 6/2013 –
+1/2020
+
+- Spearheaded business development and new customer acquisition for
+  clients in agriculture, commodities, logistics, and construction
+
+- Led a successful client software services company, managing
+  product/project engineering teams tailored to business clients in
+  agriculture, manufacturing, commodities, and logistics
+
+- Implemented over a dozen software products and projects including ERP
+  integrations, a large ETRM implementation, several quote-to-cash
+  lifecycle systems, inventory management, logistics platforms in
+  transportation management, logistics loading systems, risk
+  management/position servers
+
+- Drove global digital transformations and custom software solutions
+  with cross-functional collaboration across diverse business units to
+  ensure the successful execution of complex projects
+
+- Leveraged technical expertise to guide and develop robust applications
+  and integrations for business-critical solutions
+
+- Empowered teams to deliver high-impact, innovative solutions aligned
+  with complex customer needs
+
+- Served as a senior software engineering leader
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Supported various business functions in the protein industry as a
+  high-performing engineer, recognized for building strong stakeholder
+  relationships and understanding critical challenges
+
+- Delivered robust solutions by leveraging technical expertise in modern
+  systems and integrating them into legacy applications
+
+- Enabled business efficiency and enhanced productivity in key areas,
+  including protein sales, manufacturing, scheduling, and accounting,
+  through innovative approaches
+
+Software Developer, Security, other titles at CF Industries (formerly
+Terra Industries) | 4/2001 – 6/2010
+
+- Delivered internal customer value as a strong .NET Developer,
+  consistently achieving goals with minimal oversight
+
+- Advocated for stakeholder needs, driving the successful launch of
+  high-quality integrations and software solutions
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+Education
+
+Master of Arts in Management | 3/2006
+
+Bellevue University, Bellevue, Nebraska
+
+Bachelor of Science in Computer Science and Mathematics | 8/2002
+
+Morningside University, Sioux City, Iowa

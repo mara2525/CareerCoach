@@ -1,0 +1,177 @@
+Summary
+
+With over two decades of experience in engineering and product
+management, I am a leader in transforming and implementing platforms. My
+extensive background encompasses hands-on engineering and leadership
+roles, where I have championed the integration of advanced technologies,
+including utilizing AI and ML within products for my customers.
+
+I have developed, and executed against, product roadmaps that align with
+engineering excellence on global teams. My experience extends to
+collaborating closely with cross-functional teams, ensuring that product
+roadmaps are not only realized but also resonate with key stakeholder
+expectations and market needs. This includes integrating payment
+mechanisms, such as Plaid, into platforms.
+
+My passion lies in delivering meaningful value to end customers. I
+prioritize customer discovery and building the right products because I
+believe sustainable monetization is only possible when we consistently
+solve real customer problems.
+
+I have extensive experience implementing and integrating many types of
+systems, including payment providers. I excel at delivering financial
+systems that generate business impact. I am passionate about leading
+engineering teams, uncovering growth opportunities, and implementing
+strategies that enhance customer value and drive business success.
+
+Industry Leadership & Expertise
+
+- Marketplace, B2B SaaS, B2B2C, Customer Operations/Success,
+  Agriculture, AgTech, Bulk Logistics (Truck, Rail, Barge, and Vessel),
+  Risk Management, Commodity Manufacturing & Trading, Chemicals
+  Manufacturing & Distribution
+
+Technical Leadership & Expertise
+
+- Integration Platforms (iPaaS, Middleware, Custom Solutions), ERPs,
+  TMSs (Transportation Management Systems), Accounting Systems,
+  ETRM/CTRMs (Enterprise/Commodities Trading Risk Management), CRMs,
+  Developer Tools
+
+Experience
+
+CEO/Founder, Digital Product Transformation Leader at Strategic
+Consulting Corp. | 1/2020 to present
+
+- Leveraged over a decade of deep engineering leadership and two
+  decades’ experience in product to align product strategy with customer
+  needs, incorporating AI to enhance product development and operational
+  efficiency
+
+- Focus on building strong customer relationships, driving
+  cross-collaboration, and driving measurable value for clients’
+  stakeholders
+
+- Delivers consistent and transformative leadership to bring out the
+  best in client product and engineering teams
+
+- Developed innovative frameworks to uncover pain points and deliver
+  tailored solutions for clients
+
+- Partners with enterprise teams to solve complex problems, enhance
+  customer satisfaction, and improve profitability through
+  collaboration, strategic alignment, and the application of modern
+  technology including AI and ML
+
+- Founded a consulting firm specializing in software project/product
+  coaching, advisory, and direct product/project development, focusing
+  on solving critical customer challenges
+
+Head of Freight [Product] and Customer Operations at Kontango | 4/2023
+to 12/2024
+
+- Set and executed the strategic vision for an international chemicals
+  commodity trading platform as an executive leader in product and
+  customer operations; Utilized deep industry knowledge of 20+ years for
+  this vision
+
+- Drove substantial customer value through collaboration,
+  relationship-building, and empowering onshore and offshore engineering
+  teams to plan and execute with agility
+
+- Embraced cutting-edge technologies, including AI for data analytics
+  and machine learning, to develop predictive freight models
+
+- Headed customer operations
+
+- Collaborated directly with the CEO and customers/partners to support
+  business development for our commodities and market intelligence
+  platform
+
+- Successfully led the freight product line from discovery to full
+  implementation, establishing the infrastructure for subsequent
+  features
+
+- Led Hubspot CRM-based reporting, data visualization, and analytics
+  tools
+
+General Manager, Product Management [Compliance and Integrations] at
+Roger | 3/2020 – 3/2023
+
+- Led the integrations team and the onRamp [Compliance] product line,
+  delivering impactful B2B solutions for agricultural commodity
+  logistics
+
+- Successfully executed the full go-to-market (GTM) strategy, launching
+  the onRamp product from concept to market readiness (0-1) within 12
+  months, driving substantial annual recurring revenue (ARR) growth for
+  the company
+
+- Managed internal and offshore teams to ensure rapid, customer-focused
+  development aligned with overall business objectives
+
+- Crafted a visionary product roadmap that transformed the Roger brand
+  with innovative solutions in truck logistics
+
+- Collaborated effectively with executives and leaders from investment
+  and advisor groups, including five of the largest agricultural
+  companies in North America
+
+- Delivered an industry-leading insurance compliance platform, driving
+  profitability and meeting critical customer needs in logistics
+  software
+
+Partner, Director of Business Solutions at Fast Solutions | 6/2013 –
+1/2020
+
+- Led a successful client software services company, managing
+  product/project engineering teams tailored to business clients in
+  agriculture, manufacturing, commodities, and logistics
+
+- Drove digital transformations and custom software solutions with
+  cross-functional collaboration across diverse business units to ensure
+  the successful execution of complex projects
+
+- Leveraged technical expertise to guide and develop robust applications
+  and integrations for business-critical solutions
+
+- Empowered teams to deliver high-impact, innovative solutions aligned
+  with complex customer needs
+
+- Served as a senior software engineering leader
+
+Business Analyst/Software Engineer at Tyson Foods | 7/2010 – 6/2013
+
+- Supported various business functions in the protein industry as a
+  high-performing engineer, recognized for building strong stakeholder
+  relationships and understanding critical challenges
+
+- Delivered robust solutions by leveraging technical expertise in modern
+  systems and integrating them into legacy applications
+
+- Enabled business efficiency and enhanced productivity in key areas,
+  including protein sales, manufacturing, scheduling, and accounting,
+  through innovative approaches
+
+Software Developer, Security, other titles at CF Industries (formerly
+Terra Industries) | 4/2001 – 6/2010
+
+- Delivered internal customer value as a strong .NET Developer,
+  consistently achieving goals with minimal oversight
+
+- Advocated for stakeholder needs, driving the successful launch of
+  high-quality integrations and software solutions
+
+- Led risk analysis, remediation, and mitigation for Sarbanes/Oxley
+  compliance as a CISSP, ensuring robust security and regulatory
+  adherence
+
+Education
+
+Masters in Management
+
+Bellevue University, Bellevue, Nebraska
+
+BS in Computer Science and Mathematics
+
+Morningside University, Sioux City, Iowa
