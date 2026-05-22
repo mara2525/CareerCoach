@@ -150,3 +150,28 @@ Mara Jorgensen
 
 ## Master Cover Letter Reference
 - Content templates: `master_cover_letter.md`
+
+---
+
+# Bio Guidelines
+
+## Hard Constraints
+- **No emdashes** - Use commas, periods, or regular dashes instead
+- **Concise**: 3-5 sentences max; no verbose filler
+- **AI mentioned by sentence 3** at the latest
+- **No reconciliation framework language**
+- **Framing**: Mara is a strategic leader, not an architect or implementer
+
+## Bio Structure
+1. **Sentence 1**: Years of experience + domain breadth (ERP, ETRM/CTRM, TMS, etc.)
+2. **Sentence 2**: Specialization / what she leads
+3. **Sentence 3**: Specific platform/domain credibility + AI track record
+4. **Final sentence**: What she delivers on THIS engagement, ending with a concrete output (roadmap, deliverable, etc.)
+
+## ETRM/CTRM Platform Notes
+- Mara has experience with the **Ion family** (Right Angle, Allegro) — do NOT list Right Angle and Allegro separately; they are part of Ion
+- Mara does NOT have FIS Aligne experience; reference Ion family as comparable
+
+## Output
+- Save bios as `.md` in `bios/` folder at repo root
+- Generate `.docx` when bio will be shared externally; name format: `Mara Jorgensen - [Client] [Role] Bio.docx`
