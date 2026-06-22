@@ -75,3 +75,45 @@ The companies that do this work now will compress 12-month AI pilots into 90-day
 ## Closing Note
 
 The through-line you can own in this panel is that you have lived on both sides - enterprise ag operations (Roger, Kontango, CF Industries, Tyson) and the consulting chair helping companies navigate AI readiness. That dual view is a differentiator. Lean into specific examples over general claims whenever you can.
+
+---
+
+## Actual Positioning - Walk Notes (June 4, 2026)
+
+### Question 1 - Where is AI delivering real value today, and where is it falling short?
+
+AI delivers real value where you have volume and history to learn from. Best examples are freight transactions and normalizing disparate, messy data into structured formats.
+
+It falls short in two places:
+
+1. Organizations deploying AI tools without a data governance plan.
+2. Expecting general models to solve problems that require your organization's specific information and transaction history. General models can't replace your organization's specific data and transaction history.
+
+### Question 2 - What challenges in agriculture present genuine opportunities, and where is hype outpacing reality?
+
+Genuine opportunities are where you need marginal improvements beyond what human judgment can achieve alone - trading, buying, selling, arbitrage, and logistics optimization.
+
+Hype outpacing reality - precision agriculture technology like computer vision for truck recognition at load facilities. Real client example: a client wanted AI to identify trucks and products at a load-in facility, but drivers were still manually signing paper BOLs. Agriculture has to baby-step into this. Highly technical AI use cases aren't there yet at scale. There are much smaller, closer-to-the-dirt problems to solve first.
+
+### Question 3 - Where can AI realistically solve problems, and where do traditional approaches still win?
+
+The framework is simple:
+
+1. Use traditional programming and deterministic models when the outcome requires zero margin for error. Example - GAAP accounting standards. No room for error, deterministic, traditional systems only.
+2. Use AI when the outcome is probabilistic and you can tolerate some inaccuracy for the upside benefit. Example - logistics optimization. You can afford slight inaccuracy on individual routes when you're moving millions of them daily, because the overall benefit of optimization far outweighs the risk of occasional suboptimal routing.
+
+### Question 4 - What is one AI capability people should be paying closer attention to right now?
+
+AI is removing the bottleneck of needing technical resources to access your own data. Business users can now query analytics, build reports, and get insights without waiting on developers or data teams.
+
+Example - using AI to write Power BI reports in natural language instead of needing formal query language skills. AI gets you to 80 to 90 percent without a developer. This is a massive unlock for large enterprises where requests get stuck in technical backlogs.
+
+### Question 5 - What is one thing agricultural leaders should do today to prepare for the future impact of AI?
+
+Get their arms around their data. Start governing, normalizing, and structuring data in a way that AI can actually consume it safely and effectively.
+
+Don't buy the AI tool first. Lock in your data strategy first, and AI deployment becomes faster and cleaner. That's the difference between a 90-day production cycle and an 18-month cleanup.
+
+### Key Through-Line
+
+You've lived on both sides - inside massive enterprise operations at Roger, Kontango, CF Industries, and Tyson, and now in the consulting chair advising on AI readiness. Lean into specific examples over general claims. You're not selling AI as a silver bullet. You're selling pragmatism. That's your differentiator.
