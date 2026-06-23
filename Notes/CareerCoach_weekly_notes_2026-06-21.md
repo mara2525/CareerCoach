@@ -30,3 +30,30 @@
 ### Status
 - Resume docx ready for submission review
 - master.md is now the clean single source of truth for all resume content
+
+---
+
+## Session: 2026-06-23
+
+### What Was Done
+- LinkedIn title and About section revised for executive positioning
+
+### LinkedIn Title - Final
+AI Product & Strategy Leader | AgTech, Commodity Trading & Logistics | Digital Transformation | B2B SaaS
+
+### LinkedIn About - Final Draft
+I bring more than two decades of experience across technology, agriculture, commodity trading, logistics, and enterprise software - plus firsthand experience owning a farm. This has built a pattern-recognition most executives don't carry into the room. That experience shortens the path from "business goal" to an actionable strategy. From there, I lead teams to translate executive intent to executable product strategy, and I help lead teams to build against those business priorities.
+
+I lead teams and organizations to move from AI curiosity to working capability, with a focus on the 0-to-1 stage. That means standing up the vision, sequencing the roadmap, and building the cross-functional alignment that gives teams the clarity to execute with speed and discipline.
+
+The through-line across all of it is a bias toward building - real software, real business goals, shipped with speed and confidence.
+
+### Writing Feedback Captured This Session
+- "Executive Builder" as a compound title was rejected - sounds made up and not credible as a real role
+- Mara wants to reduce repetitive "I" sentence starts, not eliminate first-person entirely
+- The "builder" identity belongs in the About section, not the title; title carries the seniority signal
+- "Two decades" stays front and center as the opener of the About
+- Framing should imply she leads teams with strategy, not that she does the work solo
+
+### Status
+- LinkedIn copy is a working draft; not confirmed as published
